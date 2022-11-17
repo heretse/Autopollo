@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "7295539_toys_kids_children_robot_play_icon.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
